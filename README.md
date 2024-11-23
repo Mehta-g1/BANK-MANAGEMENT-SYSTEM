@@ -50,9 +50,9 @@ You can use any IDE like Code::Blocks, Dev-C++, or an online compiler.
  -> saveAccountDetails_file(): Saves account details to files.
  
 # Contributing
--> https://github.com/Mehta-g1
+-> [GitHub](https://github.com/Mehta-g1)
  
-->https://linkedin.com/Mehta-g1
+-> https://www.linkedin.com/in/mehta-g1/
   
 -> https://github.com/ajitkumargupta01
   
