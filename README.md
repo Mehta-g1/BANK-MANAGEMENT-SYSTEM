@@ -52,7 +52,7 @@ You can use any IDE like Code::Blocks, Dev-C++, or an online compiler.
 # Contributing
 -> https://github.com/Mehta-g1
  
-->https://linkedin.com/Mehta-h1
+->https://linkedin.com/Mehta-g1
   
 -> https://github.com/ajitkumargupta01
   
