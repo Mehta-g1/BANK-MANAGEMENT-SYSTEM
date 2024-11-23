@@ -1,5 +1,50 @@
 # BANK-MANAGEMENT-SYSTEM
-You can show as 1st year minor project. This is designed with only use of c language with file management and working very efficiently.
+	Welcome to the Bank Management System! This program allows users to manage their bank accounts with various functionalities like opening an account, 		depositing and withdrawing money, checking balance, and more. This README is designed to help first-year college students understand how to use and navigate 	the system.
+
+
+# Features
+ -> Open a new bank account
+ -> Deposit money into an account
+ -> Withdraw money from an account
+ -> Check account balance
+ -> View customer details and transaction history
+ -> Change account password
+ -> Reset forgotten password
+ 
+# Getting Started
+To run the Bank Management System, you need to have a C compiler installed on your machine. You can use any IDE like Code::Blocks, Dev-C++, or an online compiler.
+# How to Use
+ step-1 -> Compile and run the program.
+ step-2 -> You will be presented with a menu of options.
+ step-3 -> Enter the number corresponding to the action you want to perform.
+ step-4 -> Follow the prompts to complete your desired action.
+# Code Structure
+ -> openAccount(): Opens a new bank account.
+ -> deposit(): Handles money deposits.
+ -> withdraw(): Handles money withdrawals.
+ -> checkBalance(): Checks the current balance of an account.
+ -> displayDetails(): Displays customer details and transaction history.
+ -> changePassword(): Allows the user to change their password.
+ -> forgotPassword(): Resets the password if forgotten.
+ -> loadAccountDetails(): Loads account details from files.
+ -> saveAccountDetails_file(): Saves account details to files.
+# Contributing
+	-> https://github.com/Mehta-g1
+ 	->https://linkedin.com/Mehta-h1
+ 	-> https://github.com/ajitkumargupta01
+
+# Features
+ -> Open a new bank account
+ -> Deposit money into an account
+ -> Withdraw money from an account
+ -> Check account balance
+ -> View customer details and transaction history
+ -> Change account password
+ -> Reset forgotten password
+
+# Prerequisites
+ -> You need a C compiler (GCC, Clang, etc.)
+ -> Basic understanding of C programming
 
 # 1st Page : ->
 
