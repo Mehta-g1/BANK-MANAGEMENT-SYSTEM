@@ -52,9 +52,8 @@ You can use any IDE like Code::Blocks, Dev-C++, or an online compiler.
 # Contributing
 -> [GitHub](https://github.com/Mehta-g1)
  
--> https://www.linkedin.com/in/mehta-g1/
+-> [Linkedin](https://www.linkedin.com/in/mehta-g1/)
   
--> https://github.com/ajitkumargupta01
   
 
 # Features
