@@ -66,8 +66,9 @@ You can use any IDE like Code::Blocks, Dev-C++, or an online compiler.
  -> Reset forgotten password
 
 # Prerequisites
- -> You need a C compiler (GCC, Clang, etc.)
- -> Basic understanding of C programming
+
+-> You need a C compiler (GCC, Clang, etc.).
+-> Basic understanding of C programming.
 
 # 1st Page : ->
 
