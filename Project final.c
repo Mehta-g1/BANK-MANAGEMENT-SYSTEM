@@ -1,3 +1,5 @@
+/* This code is developed by @mehta-g1 and @ajitkumargupta01 */
+
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
