@@ -84,7 +84,7 @@ You can show as 1st year minor project. This is designed with only use of c lang
                         --------------------------------------------
 
         Account number  : 21051120
-        Account holder  : Vikash Mehta
+        Account holder  : Mehta_G1
         Mobile number   : 1234567890
         Account type    : Saving
         Password        : 12345
