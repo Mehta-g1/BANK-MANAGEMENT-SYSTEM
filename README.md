@@ -3,19 +3,19 @@ Welcome to the Bank Management System! This program allows users to manage their
 
 
 # Features
- -> Open a new bank account
- 
- -> Deposit money into an account
+-> Open a new bank account
+
+-> Deposit money into an account
  
  -> Withdraw money from an account
  
- -> Check account balance
+-> Check account balance
  
- -> View customer details and transaction history
+-> View customer details and transaction history
  
- -> Change account password
+-> Change account password
  
- -> Reset forgotten password
+-> Reset forgotten password
  
  
 # Getting Started
