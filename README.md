@@ -57,6 +57,7 @@ You can use any IDE like Code::Blocks, Dev-C++, or an online compiler.
   
 
 # Features
+
  -> Open a new bank account
  -> Deposit money into an account
  -> Withdraw money from an account
